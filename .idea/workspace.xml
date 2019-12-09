@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/_posts/2019-12-09-welcome-to-jekyll.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/about.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_project_IS117/index.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-09-welcome-to-jekyll.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +41,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Danilo Patrucco\WebstormProjects\Final_project_IS117\_layouts" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -76,7 +71,7 @@
       <workItem from="1575503109789" duration="1007000" />
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
-      <workItem from="1575926258386" duration="567000" />
+      <workItem from="1575926258386" duration="1365000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -99,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575924505040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task: added Jekyll">
+      <created>1575926846163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575926846163</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,13 +112,14 @@
     <MESSAGE value="Task: Restiled the index.html file" />
     <MESSAGE value="Task: created the website scheleton" />
     <MESSAGE value="Task: Finished editing of the menu bar (navbar)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Finished editing of the menu bar (navbar)" />
+    <MESSAGE value="Task: added Jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added Jekyll" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575924503791">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575926844612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924503791" />
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575926844612" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575924512675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
