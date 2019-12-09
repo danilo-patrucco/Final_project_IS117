@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/_posts/2019-12-09-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project_IS117/index.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +68,7 @@
       <workItem from="1575503109789" duration="1007000" />
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
-      <workItem from="1575926258386" duration="1762000" />
+      <workItem from="1575926258386" duration="3026000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -116,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575927653104</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix: Fixed structure of Jekyll">
+      <created>1575928077009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575928077009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,13 +125,14 @@
     <MESSAGE value="Task: Finished editing of the menu bar (navbar)" />
     <MESSAGE value="Task: added Jekyll" />
     <MESSAGE value="Task: added folder not used in gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added folder not used in gitignore" />
+    <MESSAGE value="Fix: Fixed structure of Jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Fixed structure of Jekyll" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575927651795">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575928075384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575927651795" />
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575928075384" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575924512675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
