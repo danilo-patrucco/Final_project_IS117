@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/_posts/2019-12-09-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_project_IS117/index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-09-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layouts/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects/Project_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects/Project_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects/Project_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/Projects/Project_4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -65,7 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1575503098994</updated>
       <workItem from="1575503109789" duration="1007000" />
-      <workItem from="1575921545168" duration="2922000" />
+      <workItem from="1575921545168" duration="3644000" />
+      <workItem from="1575925866167" duration="23000" />
+      <workItem from="1575926258386" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -81,26 +92,39 @@
       <option name="project" value="LOCAL" />
       <updated>1575923955353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: Finished editing of the menu bar (navbar)">
+      <created>1575924505040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575924505040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Restiled the index.html file" />
     <MESSAGE value="Task: created the website scheleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created the website scheleton" />
+    <MESSAGE value="Task: Finished editing of the menu bar (navbar)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Finished editing of the menu bar (navbar)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575923954088">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1575924503791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575923954088" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575923966559">
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924503791" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575924512675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575923966559" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924512675" />
+    <state x="366" y="155" key="git4idea.merge.GitPullDialog" timestamp="1575924508456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924508456" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1575924446328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
