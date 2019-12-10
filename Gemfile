@@ -32,5 +32,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
    gem "jekyll-gist"
    gem "jekyll-coffeescript"
    gem "jekyll-assets"
-   gem "another-jekyll-plugin"
  end
