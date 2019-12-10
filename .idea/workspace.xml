@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/orange-fibre-pattern-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/Project_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/Project_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/Project_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/Project_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/Projects/Project_4.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +68,7 @@
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
       <workItem from="1575926258386" duration="3026000" />
-      <workItem from="1575936024249" duration="4675000" />
+      <workItem from="1575936024249" duration="5121000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -132,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575937868242</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix: Fixed about page and carousel">
+      <created>1575942471320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575942471320</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,19 +141,20 @@
     <MESSAGE value="Task: added folder not used in gitignore" />
     <MESSAGE value="Fix: Fixed structure of Jekyll" />
     <MESSAGE value="Task: created carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created carousel" />
+    <MESSAGE value="Fix: Fixed about page and carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Fixed about page and carousel" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575937868107">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575942471251">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575928075384" />
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575937868107" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575937873299">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942471251" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575942700227">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924512675" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575937873299" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942700227" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1575927733669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
