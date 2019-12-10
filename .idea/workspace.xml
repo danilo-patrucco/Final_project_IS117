@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/bckground.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +75,7 @@
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
       <workItem from="1575926258386" duration="3026000" />
-      <workItem from="1575936024249" duration="13006000" />
+      <workItem from="1575936024249" duration="13428000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -261,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575950923259</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task: Changed background">
+      <created>1575951167019</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1575951167019</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +274,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Task: created the website scheleton" />
     <MESSAGE value="Task: Finished editing of the menu bar (navbar)" />
     <MESSAGE value="Task: added Jekyll" />
     <MESSAGE value="Task: added folder not used in gitignore" />
@@ -294,19 +298,20 @@
     <MESSAGE value="Fix: Fixed links" />
     <MESSAGE value="Task: added content to the project pages" />
     <MESSAGE value="Task: filled the project pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: filled the project pages" />
+    <MESSAGE value="Task: Changed background" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Changed background" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2336" y="92" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575950923211">
+    <state x="2336" y="92" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575951166974">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575928075384" />
-    <state x="2336" y="92" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575950923211" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575950928568">
+    <state x="2336" y="92" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575951166974" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575951174123">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924512675" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575950928568" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575951174123" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1575927733669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
