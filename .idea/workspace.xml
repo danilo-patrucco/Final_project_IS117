@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
       <workItem from="1575926258386" duration="3026000" />
-      <workItem from="1575936024249" duration="5210000" />
+      <workItem from="1575936024249" duration="5551000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575942897321</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix:deleted 404 page">
+      <created>1575942992984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575942992984</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,19 +158,20 @@
     <MESSAGE value="Task: created carousel" />
     <MESSAGE value="Fix: Fixed about page and carousel" />
     <MESSAGE value="Fix: downloaded css locally" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: downloaded css locally" />
+    <MESSAGE value="fix:deleted 404 page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:deleted 404 page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575942897254">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575942992928">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575928075384" />
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942897254" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575942905069">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942992928" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575942997807">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924512675" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942905069" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942997807" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1575927733669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
