@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
       <workItem from="1575926258386" duration="3026000" />
-      <workItem from="1575936024249" duration="5749000" />
+      <workItem from="1575936024249" duration="6431000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575943327734</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task: added some missing css and ico files.">
+      <created>1575943568517</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575943568517</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,19 +180,20 @@
     <MESSAGE value="Fix: downloaded css locally" />
     <MESSAGE value="fix:deleted 404 page" />
     <MESSAGE value="fix: changed the yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: changed the yml file" />
+    <MESSAGE value="Task: added some missing css and ico files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added some missing css and ico files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575943327685">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2" timestamp="1575943568468">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575928075384" />
-    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575943327685" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575942997807">
+    <state x="1785" y="0" width="877" height="807" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575943568468" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575943574918">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1575924512675" />
-    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575942997807" />
+    <state x="1753" y="142" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575943574918" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1575927733669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
