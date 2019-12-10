@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f624f6e-92cc-4958-88fc-4d4d84cd6adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/About.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,7 @@
       <workItem from="1575921545168" duration="3644000" />
       <workItem from="1575925866167" duration="23000" />
       <workItem from="1575926258386" duration="3026000" />
+      <workItem from="1575936024249" duration="1813000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Restiled the index.html file">
       <created>1575922809055</created>
